@@ -1,0 +1,30 @@
+html {
+  font-size: 30px;
+}
+
+body {
+  margin: 0 auto;
+  padding: 50px;
+  font-family: Calibri, Helvetica, Arial, sans-serif;
+  line-height: 150%;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+}
+
+h1 > span {
+  margin-left: .2em;
+  margin-top: 3px;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
